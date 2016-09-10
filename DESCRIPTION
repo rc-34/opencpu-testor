@@ -1,0 +1,13 @@
+Package: opencpuTestor
+Title: Little code to test opencpu
+Description: Just few functions to be accessed via an API exposed by opencpu.
+Version: 0.5
+License: MIT
+Author: RC <test@test.com>
+Maintainer: RC <test@test.com>
+Depends:
+    R (>= 3.2.0)
+Imports: 
+    magrittr
+LazyData: TRUE
+RoxygenNote: 5.0.1
